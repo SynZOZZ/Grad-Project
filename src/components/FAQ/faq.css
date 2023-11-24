@@ -1,0 +1,28 @@
+.faq .container-faq {
+  max-width: 70%;
+  border-radius: 5px;
+  margin: auto;
+  padding: 100px 20px;
+  justify-content: space-between;
+}
+.faq .container-faq .box-faq {
+  background-color: #fff;
+  margin-bottom: 20px;
+}
+.faq .container-faq{
+  margin-top: 450px
+}
+.faq .margin {
+  margin-top: 0;
+}
+.faq .header-faq {
+  font-weight: 500;
+}
+.faq .p-faq {
+  padding: 20px;
+}
+.faq .accordion-faq:hover {
+  background-color: #1eb2a6;
+  color: #fff;
+  cursor: pointer;
+}
